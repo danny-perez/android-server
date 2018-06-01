@@ -1,0 +1,2 @@
+ALTER TABLE profile ADD COLUMN api_key TEXT;
+ALTER TABLE profile ADD COLUMN app_id TEXT;

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoRetrofit</string>
+    <string name="demo_str">This Demostr</string>
+</resources>

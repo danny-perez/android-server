@@ -1,0 +1,1 @@
+ALTER TABLE tariffs ADD COLUMN car_class_id TEXT;

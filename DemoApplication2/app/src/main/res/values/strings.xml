@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoApplication2</string>
+    <string name="message">Hello Android Nougat!</string>
+</resources>

@@ -1,0 +1,1 @@
+ALTER TABLE orders ADD COLUMN fix_cost TEXT;

@@ -1,0 +1,1 @@
+include ':Alcatel', ':app', ':base', ':instantapp'

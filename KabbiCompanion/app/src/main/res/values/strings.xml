@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KabbiCompanion</string>
+    <string name="imgDescr">KabbiCompanion</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

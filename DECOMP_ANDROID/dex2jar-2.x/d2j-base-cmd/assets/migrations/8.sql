@@ -1,0 +1,2 @@
+ALTER TABLE profile ADD COLUMN first_sign INTEGER;
+ALTER TABLE profile ADD COLUMN inaccuracy INTEGER;
